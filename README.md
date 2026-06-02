@@ -1,1 +1,1 @@
-# Implimentation-Inverse-Park-Transform
+Implemented Inverse Park and Inverse Clarke Transformations on the TI C2000 F28379D LaunchPad using MATLAB Simulink, converting DC rotating-frame inputs (dq) to balanced three-phase sinusoidal voltage reference signals — core to vector control of AC machines. Validated in both simulation and hardware with ADC/DAC interfacing and DSO verification.
